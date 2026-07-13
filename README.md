@@ -107,6 +107,14 @@ streamlit run aml_dashboard.py
 
 Then open the local Streamlit URL shown in the terminal.
 
+## Live Demo
+
+The dashboard is deployed here:
+
+https://aml-fraud-detection-pipeline-interface.streamlit.app/
+
+
+
 ## Usage
 
 ### Upload and Analyze
